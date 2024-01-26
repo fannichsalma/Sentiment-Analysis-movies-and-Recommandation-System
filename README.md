@@ -16,8 +16,8 @@ The project is based on developing a versatile system that combines sentiment an
 ## 2. Technologies Used
 - scrapy
 - BeautifulSoup
+-  Python
 - Jupyter notebook
-- Python
 - NumPy
 - Pandas
 - Scikit-learn
