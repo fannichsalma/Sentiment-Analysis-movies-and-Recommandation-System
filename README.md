@@ -26,6 +26,9 @@ The project is based on developing a versatile system that combines sentiment an
 
 ## 4. Report and presentation
 you will find all details of project and architecutre in my report and presentation in the folder report and presentation good lecture 
+for link of presentation :
+
+https://www.canva.com/design/DAFzTrfN3oI/1I28ITtDsgc5d_q3R4JJtw/edit?utm_content=DAFzTrfN3oI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 5. Conclusion
 In conclusion, our project has succeeded in creating an accurate sentiment analysis model and an efficient movie recommendation system based on similarity.
