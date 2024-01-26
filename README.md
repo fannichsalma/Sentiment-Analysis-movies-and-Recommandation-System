@@ -1,11 +1,10 @@
-# fannichsalma-AnalysisSentiment-movies-and-Recommandation-System
-# Sentiment Analysis for Jumia Reviews & Smartphone Price Prediction System
 
+# Sentiment Analysis movies and Recommandation System
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Technologies Used](#technologies-used)
 3. [Steps](#steps)
-4. [Report and presentation](#Report and presentation)
+4. [Report and presentation](#Report-and-presentation)
 5. [Conclusion](#conclusion)
 6. [Contacts](#contacts)
 
@@ -32,8 +31,11 @@ you will find all details of project and architecutre in my report and presentat
 In conclusion, our project has succeeded in creating an accurate sentiment analysis model and an efficient movie recommendation system based on similarity.
 
 ## 6. Contacts
-for any informations or suggestions or question please contact me:
-Name: Fannich Salma
-Email: salma.fannich123@gmail.com
-[LinkedIn: Salma Fannich](www.linkedin.com/in/salma-fannich-019992252)
+
+For any information, suggestions, or questions, please contact me:
+
+Name: Fannich Salma  
+Email: salma.fannich123@gmail.com  
+[LinkedIn: Salma Fannich](https://www.linkedin.com/in/salma-fannich-019992252)
+
 
